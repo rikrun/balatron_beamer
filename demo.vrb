@@ -1,0 +1,7 @@
+\frametitle{代码}
+\lstinputlisting[lastline=11,
+^^Ilanguage=Python,
+^^Iframe=single,
+^^Icaption=First ten lines of some Python code,
+^^Ilabel=python]
+^^I{test.py}
