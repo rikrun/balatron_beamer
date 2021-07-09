@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.7.5)  9 JUL 2021 17:18
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.7.5)  9 JUL 2021 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2477,10 +2477,6 @@ Overfull \hbox (7.50598pt too wide) has occurred while \output is active
 File: assets/balatron_conner2.pdf Graphic file (type pdf)
 <use assets/balatron_conner2.pdf>
 
-Overfull \vbox (3.8327pt too high) detected at line 583
- []
-
-
 Overfull \hbox (7.50598pt too wide) has occurred while \output is active
 [] 
  []
@@ -2560,10 +2556,6 @@ Overfull \hbox (7.50598pt too wide) has occurred while \output is active
 File: assets/balatron_conner2.pdf Graphic file (type pdf)
 <use assets/balatron_conner2.pdf>
 
-Overfull \vbox (4.13318pt too high) detected at line 711
- []
-
-
 Overfull \hbox (7.50598pt too wide) has occurred while \output is active
 [] 
  []
@@ -2588,7 +2580,7 @@ Missing character: There is no ; ("3B) in font nullfont!
 File: assets/balatron_conner2.pdf Graphic file (type pdf)
 <use assets/balatron_conner2.pdf>
 
-Overfull \vbox (17.47887pt too high) detected at line 753
+Overfull \vbox (9.47887pt too high) detected at line 753
  []
 
 
@@ -2604,7 +2596,7 @@ Overfull \hbox (7.50598pt too wide) has occurred while \output is active
 File: assets/balatron_conner2.pdf Graphic file (type pdf)
 <use assets/balatron_conner2.pdf>
 
-Overfull \vbox (37.37378pt too high) detected at line 781
+Overfull \vbox (29.37378pt too high) detected at line 781
  []
 
 
