@@ -1,0 +1,5 @@
+\beamer@sectionintoc {3}{引言}{6}{0}{1}
+\beamer@sectionintoc {4}{列表的分级}{8}{0}{2}
+\beamer@sectionintoc {5}{颜色}{10}{0}{3}
+\beamer@sectionintoc {6}{特点}{23}{0}{4}
+\beamer@sectionintoc {7}{教程}{28}{0}{5}
