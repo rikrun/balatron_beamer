@@ -13,7 +13,7 @@ git clone https://github.com/rikrun/balatron_beamer.git
 
 # Tutorials
 知乎
-LaTeX制作Beamer(一)
-LaTeX制作Beamer(二)
+- [LaTeX制作Beamer(一)](https://zhuanlan.zhihu.com/p/36868831)
+- [LaTeX制作Beamer(二)](https://zhuanlan.zhihu.com/p/39177705)
 # Others
 这个模板是我参阅的某前辈汉化的sthlm的模板改制，原模板是英文的，在此感谢原作者。
