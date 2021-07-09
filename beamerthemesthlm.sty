@@ -346,12 +346,10 @@ xrightmargin=0.5em
 
 \vspace*{0em}
 \hfill
+\begin{tikzpicture}
+	\node [trapezium,draw,trapezium right angle=90,draw,\cnDarkGrey] {\insertframenumber};
+\end{tikzpicture}
 \setbeamercolor{boxsthlmDarkGrey}{bg=\cnDarkGrey,fg=white}
-\begin{beamercolorbox}[wd=2em,ht=1em,dp=1ex]{boxsthlmDarkGrey}
-	\centering
-
-	\texttt{\insertframenumber}
-\end{beamercolorbox}
 \end{beamercolorbox}
 }}
 \else%

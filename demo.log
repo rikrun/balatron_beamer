@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.7.5)  9 JUL 2021 16:25
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.7.5)  9 JUL 2021 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1946,38 +1946,6 @@ r.otf
 Requested font "[lmroman8-regular]:mapping=tex-text;" at 8.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman8-regula
 r.otf
-Requested font "[FandolFang-Regular.otf]/OT" at 7.99997pt
- -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fandol/FandolFang-
-Regular.otf
-Requested font "[FandolFang-Regular.otf]/OT" at 8.00003pt
- -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fandol/FandolFang-
-Regular.otf
-
-Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
-(fontspec)                Script "CJK".
-
-Requested font "[FandolFang-Regular.otf]/OT:language=dflt;" at 8.00003pt
- -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fandol/FandolFang-
-Regular.otf
-LaTeX Font Info:    Trying to load font information for TU+zi4 on input line 63
-.
-LaTeX Font Info:    No file TUzi4.fd. on input line 63.
-
-LaTeX Font Warning: Font shape `TU/zi4/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 63.
-
-
-Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
-(fontspec)             'FandolFang-Regular' with options
-(fontspec)             [Script={CJK},Extension={.otf}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[FandolFang-Regular.otf]/OT:language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
 Requested font "[lmroman17-regular]:mapping=tex-text;" at 20.74pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman17-regul
 ar.otf
@@ -2268,6 +2236,38 @@ LaTeX Font Warning: Font shape `TU/FandolSong-Regular(0)/m/sc' undefined
 (Font)              using `TU/FandolSong-Regular(0)/m/n' instead on input line 
 197.
 
+Requested font "[FandolFang-Regular.otf]/OT" at 10.94997pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fandol/FandolFang-
+Regular.otf
+Requested font "[FandolFang-Regular.otf]/OT" at 10.95003pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fandol/FandolFang-
+Regular.otf
+
+Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+Requested font "[FandolFang-Regular.otf]/OT:language=dflt;" at 10.95003pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fandol/FandolFang-
+Regular.otf
+LaTeX Font Info:    Trying to load font information for TU+zi4 on input line 19
+7.
+LaTeX Font Info:    No file TUzi4.fd. on input line 197.
+
+LaTeX Font Warning: Font shape `TU/zi4/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 197.
+
+
+Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
+(fontspec)             'FandolFang-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolFang-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
 Requested font "[FandolFang-Regular.otf]/OT:language=dflt;" at 10.95pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fandol/FandolFang-
 Regular.otf
@@ -2477,6 +2477,10 @@ Overfull \hbox (7.50598pt too wide) has occurred while \output is active
 File: assets/balatron_conner2.pdf Graphic file (type pdf)
 <use assets/balatron_conner2.pdf>
 
+Overfull \vbox (3.8327pt too high) detected at line 583
+ []
+
+
 Overfull \hbox (7.50598pt too wide) has occurred while \output is active
 [] 
  []
@@ -2556,6 +2560,10 @@ Overfull \hbox (7.50598pt too wide) has occurred while \output is active
 File: assets/balatron_conner2.pdf Graphic file (type pdf)
 <use assets/balatron_conner2.pdf>
 
+Overfull \vbox (4.13318pt too high) detected at line 711
+ []
+
+
 Overfull \hbox (7.50598pt too wide) has occurred while \output is active
 [] 
  []
@@ -2580,7 +2588,7 @@ Missing character: There is no ; ("3B) in font nullfont!
 File: assets/balatron_conner2.pdf Graphic file (type pdf)
 <use assets/balatron_conner2.pdf>
 
-Overfull \vbox (8.18307pt too high) detected at line 753
+Overfull \vbox (17.47887pt too high) detected at line 753
  []
 
 
@@ -2596,7 +2604,7 @@ Overfull \hbox (7.50598pt too wide) has occurred while \output is active
 File: assets/balatron_conner2.pdf Graphic file (type pdf)
 <use assets/balatron_conner2.pdf>
 
-Overfull \vbox (28.07799pt too high) detected at line 781
+Overfull \vbox (37.37378pt too high) detected at line 781
  []
 
 
@@ -2694,12 +2702,12 @@ Package rerunfilecheck Info: File `demo.out' has not changed.
 (rerunfilecheck)             Checksum: 63AC9FD162B0C4699C22D57CBEE8F727;552.
  ) 
 Here is how much of TeX's memory you used:
- 46880 strings out of 476681
- 1104197 string characters out of 5817868
- 1822939 words of memory out of 5000000
- 66070 multiletter control sequences out of 15000+600000
+ 46932 strings out of 476681
+ 1105335 string characters out of 5817868
+ 1822948 words of memory out of 5000000
+ 66122 multiletter control sequences out of 15000+600000
  455861 words of font info for 159 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,16n,144p,1028b,2522s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,18n,144p,1028b,2522s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on demo.pdf (36 pages).
