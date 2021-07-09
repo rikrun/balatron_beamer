@@ -600,8 +600,6 @@ sthlm主题依赖于Benjamin Weiss的 \alert{HSRM} 主题和 Matthias Vogelgesan
 强调重要信息。
 \end{alertblock}
 \end{sthlmLatex}
-
-
 \end{frame}
 
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -620,6 +618,32 @@ sthlm主题依赖于Benjamin Weiss的 \alert{HSRM} 主题和 Matthias Vogelgesan
 \end{verbatim}
 \end{frame}
 
+\subsection{代码}
+\lstset{ %
+	backgroundcolor=\color{white},   % choose the background color
+	basicstyle=\footnotesize\rmfamily,     % size of fonts used for the code
+	columns=fullflexible,
+	breaklines=true,                 % automatic line breaking only at whitespace
+	captionpos=b,                    % sets the caption-position to bottom
+	tabsize=4,
+	commentstyle=\color{green},    % comment style
+	escapeinside={\%*}{*)},          % if you want to add LaTeX within your code
+	keywordstyle=\color{blue},       % keyword style
+	stringstyle=\color{mymauve}\ttfamily,     % string literal style
+	numbers=left, 
+	%	frame=single,
+	rulesepcolor=\color{red!20!green!20!blue!20},
+	% identifierstyle=\color{red},
+	language=c
+}
+\begin{frame}[fragile]{代码}
+	\lstinputlisting[lastline=11,
+	language=Python,
+	frame=single,
+	caption=First ten lines of some Python code,
+	label=python]
+	{test.py}
+\end{frame}
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 %	FRAME: Blocks
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
